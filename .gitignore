@@ -1,0 +1,12 @@
+target/
+*.class
+.idea/
+*.iml
+
+node_modules/
+build/
+.env
+
+
+.DS_Store
+Thumbs.db

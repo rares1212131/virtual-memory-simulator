@@ -1,0 +1,35 @@
+.log-panel {
+  height: 200px;
+  overflow-y: auto;
+  border: 1px solid #eee;
+  padding: 10px;
+}
+
+.memory-view {
+  height: 450px;
+  overflow-y: auto;
+}
+
+.page-table-view-container {
+  display: flex;
+  height: 450px; /* Give it a fixed height to match the other panels */
+}
+
+.page-directory {
+  width: 30%;
+  padding-right: 15px;
+  border-right: 1px solid #dee2e6;
+  overflow-y: auto; /* Make the directory list scrollable */
+}
+
+.page-table {
+  width: 70%;
+  padding-left: 15px;
+  overflow-y: auto; /* Make the table of entries scrollable */
+}
+
+.memory-view {
+  height: 450px;
+  overflow-y: auto;
+  background-color: #f8f9fa; /* Slight grey background to pop the white cells */
+}
