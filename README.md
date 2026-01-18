@@ -8,7 +8,7 @@ A comprehensive, full-stack simulation of an Operating System's memory managemen
 
 ## 📄 Documentation
 
-**[Read the full Design & Architecture Document (PDF)](docs/Virtual_Memory_Simulator_Documentation.pdf)**
+**[Read the full Design & Architecture Document (PDF)](documentation/SCS (9).pdf)**
 
 *For a deep dive into the algorithmic implementation, bitwise logic, and architectural decisions, please refer to the attached documentation.*
 
