@@ -6,11 +6,6 @@
 
 A comprehensive, full-stack simulation of an Operating System's memory management architecture. This application visualizes the complex interaction between Hardware (MMU/TLB) and Software (OS/Page Tables) during memory access operations.
 
-## 📄 Documentation
-
-**[Read the full Design & Architecture Document (PDF)](docs/Virtual_Memory_Simulator_Documentation.pdf)**
-
-*For a deep dive into the algorithmic implementation, bitwise logic, and architectural decisions, please refer to the attached documentation.*
 
 ##  Key Features
 
